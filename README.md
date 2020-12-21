@@ -22,8 +22,8 @@ New File - mountains_new.jpg, 1920x1080, Compression Factor 5, 123.5 KB
 ## Results
 The testing of the times were done on a freshly booted system, with no other applications open, to ensure that the program would have complete access to all the 4 processor cores of the machine. These are summarized in the graph below. The point corresponding to threads as zero, is the code without multithreading.
 
-![alt text](<https://github.com/nehemgr/Multithreaded-Image-Compression-Using-DFT/blob/main/Report/result_graph.jpg>)
+![alt text](<https://github.com/nehemgr/Multithreaded-Image-Compression-Using-DFT/blob/main/Report/result_graph.JPG>)
 
 The degree of compression in the file size is tabulated below for the aforementioned image mountains.jpg.
 
-![alt text](<https://github.com/nehemgr/Multithreaded-Image-Compression-Using-DFT/blob/main/Report/result_table.jpg>)
+![alt text](<https://github.com/nehemgr/Multithreaded-Image-Compression-Using-DFT/blob/main/Report/result_table.JPG>)
